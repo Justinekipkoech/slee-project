@@ -29,6 +29,7 @@ class UsersController < ApplicationController
       else
         render json: {error: "Not authorized"}, status: :unauthorized
       end
+      
   end
 
   # Private methods
