@@ -22,7 +22,7 @@ products =
           "A laptop that suites your business needs, lightweight and longer battery life",
         price: "80000",
         image_url:
-          "https://imgs.search.brave.com/OroZJyTRGZuznxpsYsn2MZBVTWEQkIHrMWOTCPxQKZQ/rs:fit:640:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5u/VnVoVFJjaUpSU1Nm/eDA0aE5ucXNnSGFG/ZiZwaWQ9QXBp",
+          "https://i.pinimg.com/564x/a5/37/c7/a537c7ce6952620aaffc44ce7aa72074.jpg",
         quantity: "5",
         category: "Laptops"
       },
